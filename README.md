@@ -10,6 +10,7 @@ This will help even the child to interact with the person from whom he is gettin
 
 # Award
 
-We won the 3rd prize for this hackthon. We are also working for the NGO now continuing the above implementation.
+We won the 3rd prize for this hackthon. 
+We are trying to implement blockchain in this application so that it gets more intensed project.
 
-#Thank you
+# Thank you
